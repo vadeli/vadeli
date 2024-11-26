@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Vida 👋
 
-<!--
-**vadeli/vadeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Candidate | Computer Vision Researcher**
 
-Here are some ideas to get you started:
+I specialize in developing generative models for 3D human motion analysis, focusing on healthcare applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://vadeli.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vida-adeli/)  
+
+
+---
+
+🔹 **Key Skills**: Computer Vision, Deep Learning, Generative Models, Human Motion Analysis, Healthcare Applications
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vida-adeli/) or check out [My portfolio](https://vadeli.github.io/) for more insights into my work.
